@@ -62,8 +62,8 @@ src/
 ## ▶️ Running It Locally
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/amitx67/backendPrac.git
+cd backendPrac
 npm install
 npm run dev
 ```
